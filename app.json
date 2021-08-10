@@ -27,12 +27,12 @@
     "web": {
       "quantity": 1,
       "size": "standard-1x"
-    }],      
+    }},      
   "plan": "heroku-postgresql",
       "options": {
         "version": "9.5"
       }
-  ],
+  },
   "buildpacks": [
     {
       "url": "https://github.com/stomita/heroku-buildpack-phantomjs"
