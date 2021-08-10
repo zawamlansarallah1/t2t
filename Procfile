@@ -1,2 +1,2 @@
 web:python3 bot.py
-worker:python telegran2twitter.py
+worker:python telegram2twitter.py
